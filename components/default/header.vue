@@ -18,7 +18,7 @@
 <style lang="postcss" scoped>
 #header {
   @apply flex flex-row justify-between items-center;
-  @apply h-24 px-14;
+  @apply h-24 px-36;
   /* background-color: #c75d5d; */
 
   > #links {
