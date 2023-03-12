@@ -2,7 +2,8 @@
   <div class="min-w-screen">
     <div id="app_wrapper">
       <DefaultHeader />
-      <landingPageHero/>
+      <LandingPageHero />
+      <LandingPageSocialProof />
       <DefaultFooter />
     </div>
   </div>
