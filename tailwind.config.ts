@@ -21,8 +21,9 @@ export default <Partial<Config>>{
     extend: {
       colors: {
         primary: "#166FFF",
+        dustygray: "#999999",
+        primarylight: "#E7F0FF",
         primarydark: "#04933E",
-        primarylight: "#02C65240",
         zircon: "#EEF0F1",
         "white-smoke": "#EBEBEB",
         gainsboro: "#D9D9D9",

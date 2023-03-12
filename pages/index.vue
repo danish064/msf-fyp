@@ -1,16 +1,16 @@
 <template>
-  <div class="w-screen">
-    <!-- header -->
-    <div id="header">
-      <div class="flex justify-center items-center h-full">
-        <h1 class="text-4xl text-white">Header</h1>
-      </div>
+  <div class="w-screen box-border">
+    <div id="app_wrapper">
+      <DefaultHeader />
+      <div>dasdasdas</div>
+      <DefaultFooter />
     </div>
   </div>
 </template>
-<style lang="postcss">
-#header {
-  height: 100px;
-  background-color: #000;
+<style lang="postcss" scoped>
+#app_wrapper {
+  @apply max-w-[1440px] mx-auto;
+  /* background-color: #67b2eb; */
 }
+
 </style>
