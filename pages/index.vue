@@ -10,7 +10,6 @@
 <style lang="postcss" scoped>
 #app_wrapper {
   @apply max-w-[1440px] mx-auto;
-  /* background-color: #67b2eb; */
 }
 
 </style>
