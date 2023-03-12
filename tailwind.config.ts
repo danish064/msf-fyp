@@ -23,6 +23,7 @@ export default <Partial<Config>>{
         primary: "#166FFF",
         dustygray: "#999999",
         primarylight: "#E7F0FF",
+        mineshaft: "#333333",
         primarydark: "#04933E",
         zircon: "#EEF0F1",
         "white-smoke": "#EBEBEB",

@@ -5,6 +5,7 @@
       <LandingPageHero />
       <LandingPageSocialProof />
       <LandingPageFeatures />
+      <LandingPageCategories />
       <DefaultFooter />
     </div>
   </div>
