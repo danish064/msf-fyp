@@ -4,6 +4,7 @@
       <DefaultHeader />
       <LandingPageHero />
       <LandingPageSocialProof />
+      <LandingPageFeatures />
       <DefaultFooter />
     </div>
   </div>

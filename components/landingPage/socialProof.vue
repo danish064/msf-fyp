@@ -42,7 +42,7 @@
       @apply absolute h-44 w-44 -z-10 -top-[60px] left-40;
     }
     > #bottomRight {
-      @apply absolute -z-10 -bottom-[65px] right-[100px];
+      @apply absolute -z-10 -bottom-[65px] right-[120px];
     }
     > #heading_sub {
       @apply flex flex-col justify-center items-center mb-12;
