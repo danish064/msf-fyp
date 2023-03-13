@@ -6,6 +6,7 @@
       <LandingPageSocialProof />
       <LandingPageFeatures />
       <LandingPageCategories />
+      <LandingPageDoctorProfiles />
       <DefaultFooter />
     </div>
   </div>

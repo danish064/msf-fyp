@@ -24,6 +24,9 @@ export default <Partial<Config>>{
         dustygray: "#999999",
         primarylight: "#E7F0FF",
         mineshaft: "#333333",
+        availableGreen: "#09CD09",
+        awayRed: "#FF0000",
+        ratingYellow: "#FFE606",
         primarydark: "#04933E",
         zircon: "#EEF0F1",
         "white-smoke": "#EBEBEB",
@@ -32,17 +35,17 @@ export default <Partial<Config>>{
         alto: "#DDDDDD",
         "dove-gray": "#717171",
         "cod-gray": "#1C1B1B",
-        "mischka": "#D1D5DB",
+        mischka: "#D1D5DB",
       },
       fontFamily: {
         sans: ["Inter", defaultTheme.fontFamily.sans],
       },
       width: {
         "60%": "60%",
-        "5px": "5px"
+        "5px": "5px",
       },
       height: {
-        "70px": "70px"
+        "70px": "70px",
       },
       maxWidth: {
         "4xl": "1920px",
@@ -66,5 +69,5 @@ export default <Partial<Config>>{
         "1": "1px",
       },
     },
-  }
+  },
 };
