@@ -111,7 +111,7 @@
       }
 
       > #nav {
-        @apply flex justify-center items-center w-full h-10 gap-x-6;
+        @apply flex justify-center items-center w-[465px] h-10 gap-x-6;
         > #circleWrap {
           @apply flex gap-x-2;
           > svg {

@@ -90,7 +90,7 @@
     }
   }
   > #bottom {
-    @apply flex flex-row justify-between items-start gap-y-16;
+    @apply flex flex-row justify-between items-start gap-y-16 mt-12;
     > #left {
       @apply flex flex-col justify-center;
       @apply w-[464px] h-[330px];

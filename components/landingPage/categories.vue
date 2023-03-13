@@ -85,7 +85,7 @@
     }
   }
   > #cards {
-    @apply flex flex-row items-center flex-wrap gap-x-6 gap-y-[24px] mt-12;
+    @apply flex flex-row justify-center items-center flex-wrap gap-x-6 gap-y-[24px] mt-12;
     > #card {
       @apply w-[365px] h-[324px] flex flex-col items-center gap-y-[6px]  bg-white rounded-2xl px-10 py-12;
       > #svg {
