@@ -201,7 +201,7 @@
     }
 
     #title {
-      @apply text-mineshaft text-4xl font-bold mt-[6px];
+      @apply text-4xl font-bold mt-[6px];
     }
   }
 
@@ -212,7 +212,7 @@
     }
     > input {
       @apply h-[24px] w-[300px] text-base font-normal focus:outline-none;
-      @apply text-mineshaft text-sm font-medium;
+      @apply text-sm font-medium;
       @apply px-2;
     }
     > :nth-child(2) {
@@ -258,7 +258,7 @@
           @apply w-full h-[234px] flex flex-col justify-start items-start gap-y-[6px];
           @apply p-6;
           > #name {
-            @apply text-mineshaft text-[22px] font-bold flex items-center gap-x-2;
+            @apply text-[22px] font-bold flex items-center gap-x-2;
 
             > svg {
               @apply w-4 h-4 inline-block text-availableGreen;
@@ -271,7 +271,7 @@
             }
             > #rating {
               @apply inline-block;
-              @apply text-mineshaft text-sm font-medium;
+              @apply text-sm font-medium;
 
               > #stars {
                 @apply inline-block;

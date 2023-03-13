@@ -2,7 +2,7 @@
   <div id="hero">
     <img id="bg_img" src="~assets/images/hero.svg" alt="" />
     <div id="content">
-      <div id="heading">
+      <div id="heading" >
         Make Your <span id="blue">Doctor Appointment <br /></span>Online &
         Offline with
         <span id="icons">

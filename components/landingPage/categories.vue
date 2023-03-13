@@ -78,7 +78,7 @@
       @apply text-primary text-sm font-semibold;
     }
     > #title {
-      @apply text-4xl font-bold text-mineshaft;
+      @apply text-4xl font-bold;
     }
     > #sub_title {
       @apply text-lg text-dustygray;
@@ -92,7 +92,7 @@
         @apply w-24 h-24 bg-gradient-to-r from-primary to-primarylight rounded-xl flex items-center justify-center drop-shadow-xl shadow-primary mb-12;
       }
       > #heading {
-        @apply text-2xl font-bold text-mineshaft;
+        @apply text-2xl font-bold;
       }
       > #subHeading {
         @apply text-sm text-dustygray text-center;

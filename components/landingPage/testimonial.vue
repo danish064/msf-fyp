@@ -84,14 +84,14 @@
         }
 
         > #review {
-          @apply text-base font-normal text-left text-mineshaft mb-3;
+          @apply text-base font-normal text-left mb-3;
         }
         > #info {
           @apply w-full;
           > #name_rating {
             @apply flex justify-between items-center w-full;
             > #name {
-              @apply text-base font-bold text-left text-mineshaft;
+              @apply text-base font-bold text-left;
             }
             > #rating {
               @apply flex;
@@ -101,7 +101,7 @@
             }
           }
           > #role {
-            @apply text-sm font-medium text-left text-mineshaft;
+            @apply text-sm font-medium text-left;
           }
         }
 
