@@ -8,6 +8,7 @@
       <LandingPageCategories />
       <LandingPageDoctorProfiles />
       <LandingPageTestimonial />
+      <LandingPageLastSection />
       <DefaultFooter />
     </div>
   </div>
